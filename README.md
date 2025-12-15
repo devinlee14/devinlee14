@@ -9,6 +9,3 @@ I'm Devin Lee!
 💼 Job: I'm deep-diving into Data Analytics, serving as a Data Analyst. It's here I merge my analytical skills with a curiosity for uncovering the stories hidden within data.
 
 🌱 Learning & Growth: My interests lie at the intersection of Machine Learning, Deep Learning, Data Analytics, and Data Science. I'm on a continuous journey, enhancing my skills in these areas, using tools like Python, SQL, and visualization tools such as Looker Studio (my go-to!), Power BI, and Tableau.
-
-
-//Doing repo just for fun//
